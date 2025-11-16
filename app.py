@@ -284,8 +284,7 @@ else:
         
         Real-time tracking
         
-        • Smart alerts  
-        • EOQ optimization  
+        • Smart alerts    
         • Status monitoring
         """)
     
